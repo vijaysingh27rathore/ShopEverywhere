@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Shop Everywhere</string>
+    <string name="login">Login</string>
+    <string name="enter_username">Enter Username</string>
+    <string name="enter_password">Enter Password</string>
+    <string name="forgot_password">forgot password?</string>
+    <string name="no_account">Not have account create?</string>
+    <string name="register">Register</string>
+    <string name="name">Enter Name</string>
+    <string name="email">Enter Email</string>
+    <string name="phone">Enter Phone Number</string>
+    <string name="conf_password">Conform Password</string>
+    <string name="age">Enter Your Age</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="new_password">Enter New Password</string>
+    <string name="reset">Reset Password</string>
+    <string name="login_with_password">Login with Password</string>
+    <string name="home">Home</string>
+    <string name="person">Profile</string>
+    <string name="wallet">Wallet</string>
+    <string name="coupon">Coupon</string>
+    <string name="product_name">Product Name</string>
+    <string name="price">Price</string>
+    <string name="redeem">Redeem Coupon</string>
+    <string name="facebook_redeem">Subscribe Facebook page to Redeem</string>
+    <string name="insta_redeem">Follow Instagram page to Redeem</string>
+    <string name="mail">Subscribe Email page to Redeem</string>
+    <string name="linedin_redeem">Follow LinkedIn page to Redeem</string>
+    <string name="whatsapp_redeem">Share on WhatsApp to Redeem</string>
+    <string name="share">Share your code reference code to Redeem</string>
+    <string name="balance">Wallet Balance</string>
+    <string name="p_name">Name</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/home"
+        android:visible="true" />
+
+    <item
+        android:id="@+id/coupon"
+        android:icon="@drawable/ic_card_giftcard"
+        android:title="@string/coupon"
+        android:visible="true"/>
+
+    <item
+        android:id="@+id/wallet"
+        android:icon="@drawable/ic_account_balance_wallet"
+        android:title="@string/wallet"
+        android:visible="true"/>
+
+    <item
+        android:id="@+id/user"
+        android:icon="@drawable/ic_person"
+        android:title="@string/person"
+        android:visible="true"/>
+
+</menu>
